@@ -1,12 +1,14 @@
 ---
-title: Name
-name: Name-3
-subtitle: Position
+title: Projeto Verde é Azul
+name: verdeeazul
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
-topic: Topic
-description: More Info
+img: img3.jpg
+thumbnail: img3.jpg
+alt: Projeto Verde é Azul
+topic: Verde é azul, bacia, goiânia
+club: Rotary Club de Goiânia Anhanguera
+contact: Leandro Gonçalves Oliveira
+email: legospy@gmail.com
+description: O Projeto “Verde é Azul” (“Green is Blue”) é uma ação integrada entre o Rotary Clube de Goiânia Anhanguera (RCGA), a Associação dos Municípios da Alta Bacia do Meia Ponte (AMAMPA), o Laboratório de Análises Ambientais e de Recursos Hídricos da Universidade Federal de Goiás (LAMARH-UFG) e do Laboratório de Processamento de Imagens e Geoprocessamento da Universidade Federal de Goiás (LAPIG-UFG) e demais parceiros rotarianos (Rotary Club nacionais e internacionais) ou não, visando a recuperação de áreas nativas do Cerrado na Alta Bacia Hidrográfica do Rio Meia Ponte. Trata-se de um projeto com foco na sustentabilidade dos recursos hídricos no Cerrado brasileiro, mais especificamente na região à montante de Goiânia, capital do Estado de Goiás.
 ---

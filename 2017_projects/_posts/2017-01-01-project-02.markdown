@@ -1,12 +1,14 @@
 ---
-title: Name
-name: Name-2
-subtitle: Position
+title: Projeto Cantagalo 2030
+name: cantagalo
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
-topic: Topic
-description: More Info
+img: img2.jpg
+thumbnail: img2.jpg
+alt: Projeto Cantagalo
+topic: Cantagalo, rio, mata, nascente
+club: Clube Brasilia International
+contact: Maria do Carmo Zinato
+email: mzinato.rotary@gmail.com
+description: O Projeto Cantagalo 2030 tem como objetivo a revitalização do córrego Cantagalo. Esse córrego desagua no Rio Casca, afluente do Rio Doce, no município de Santo Antônio do Grama, na zona da mata de Minas Gerais,  e sua revitalização poderá servir de modelo e ajudar na recuperação de toda a Bacia do Rio Casca e do Rio Doce.  Esse projeto piloto é uma parceria entre os Rotary Clubes de Brasília (Brasília International) e Belo Horizonte (BH Liberdade), com o apoio do Sindicato dos Pequenos Produtores Rurais e da prefeitura de Santo Antônio do Grama. O  projeto Cantagalo 2030 vem de encontro a um dos objetivos mundiais do Rotary Internacional, qual seja, apoiar projetos ambientais e de recuperação de matas e nascentes. Ao apoiar a recuperação do Rio Doce criaremos as condições de expandir seus fundamentos para outras córregos e bacias do Brasil.
 ---
