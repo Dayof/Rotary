@@ -1,0 +1,14 @@
+---
+title: Água e Ar para idosos
+name: idosos
+layout: 2017_default
+modal-id: 1
+img: img1.jpg
+thumbnail: img1.jpg
+alt: Água e Ar para idosos
+topic: Água e Ar
+club: Rotary Club Brasília Sudoeste
+contact: Sebastião José de Abreu Neto
+email: sebastiaoabreu.coach@gmail.com
+description: Havia uma deficiência de fornecimento de água no Lar Francisco de Assis (Lar dos Velhinhos) em Brasília - Distrito Federal - Brasil, em virtude do racionamento hídrico que a cidade vem sendo submetida pela escassez das chuvas na região, fez-se necessário a colocação de reservatórios extras para que os idosos não continuassem privados do acesso à água, o ROTARY CLUBE BRASÍLIA SUDOESTE, por meio de Subsídios Distrital 2017-2081, DISTRITO 4530, pode fornecer CAIXAS D’ÁGUA e CIRCULADORES DE AR, com o objetivo de oferecer água para
+---
