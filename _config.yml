@@ -1,8 +1,8 @@
 title: Rotary
 description: > # this means to ignore newlines until "baseurl:"
   Fórum Mundial da Água
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dayof.github.io/"
+baseurl: "/rotary" # the subpath of your site, e.g. /blog
+url: "https://dayof.github.io"
 
 facebook:
   app_id:
